@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-17T16:37:11 AEST" name="Suite" finished-at="2022-09-17T16:37:19 AEST" duration-ms="8661">
+    <groups>
+    </groups>
+    <test started-at="2022-09-17T16:37:11 AEST" name="Test" finished-at="2022-09-17T16:37:19 AEST" duration-ms="8661">
+      <class name="testcases.HomeTest">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:testcases.HomeTest@6283d8b8]" started-at="2022-09-17T16:37:17 AEST" name="Setup" finished-at="2022-09-17T16:37:19 AEST" duration-ms="2197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="TestLogin()[pri:0, instance:testcases.HomeTest@6283d8b8]" started-at="2022-09-17T16:37:19 AEST" name="TestLogin" finished-at="2022-09-17T16:37:19 AEST" duration-ms="296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLogin -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:testcases.HomeTest@6283d8b8]" started-at="2022-09-17T16:37:19 AEST" name="TearDown" finished-at="2022-09-17T16:37:19 AEST" duration-ms="196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- testcases.HomeTest -->
+      <class name="testcases.SwaglabsLoginTest">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:testcases.SwaglabsLoginTest@14555e0a]" started-at="2022-09-17T16:37:11 AEST" name="Setup" finished-at="2022-09-17T16:37:14 AEST" duration-ms="3203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Test1()[pri:0, instance:testcases.SwaglabsLoginTest@14555e0a]" started-at="2022-09-17T16:37:14 AEST" name="Test1" finished-at="2022-09-17T16:37:14 AEST" duration-ms="340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:testcases.SwaglabsLoginTest@14555e0a]" started-at="2022-09-17T16:37:14 AEST" name="TearDown" finished-at="2022-09-17T16:37:14 AEST" duration-ms="178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:testcases.SwaglabsLoginTest@14555e0a]" started-at="2022-09-17T16:37:14 AEST" name="Setup" finished-at="2022-09-17T16:37:16 AEST" duration-ms="1797" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Test2()[pri:0, instance:testcases.SwaglabsLoginTest@14555e0a]" started-at="2022-09-17T16:37:16 AEST" name="Test2" finished-at="2022-09-17T16:37:17 AEST" duration-ms="316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:testcases.SwaglabsLoginTest@14555e0a]" started-at="2022-09-17T16:37:17 AEST" name="TearDown" finished-at="2022-09-17T16:37:17 AEST" duration-ms="90" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- testcases.SwaglabsLoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
